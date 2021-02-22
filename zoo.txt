@@ -1,0 +1,124 @@
+**************************Building A**************************
+This building contains 3 animals: 
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Penguin
+Food: carnivore
+Weighs: 1.5 – 23 kg
+Movement: tobogganing
+Speed: 6 – 9 km/h
+Sound: honk
+Lifespan: 6-20 years
+--------------------------
+Giraffe
+Food: herbivore
+Weighs: 800 kg
+Movement: walking
+Speed: 60 km/h
+Sound: hum
+Lifespan: 25 years
+--------------------------
+**************************Building B**************************
+This building contains 4 animals: 
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Penguin
+Food: carnivore
+Weighs: 1.5 – 23 kg
+Movement: tobogganing
+Speed: 6 – 9 km/h
+Sound: honk
+Lifespan: 6-20 years
+--------------------------
+Penguin
+Food: carnivore
+Weighs: 1.5 – 23 kg
+Movement: tobogganing
+Speed: 6 – 9 km/h
+Sound: honk
+Lifespan: 6-20 years
+--------------------------
+**************************Building C**************************
+This building contains 4 animals: 
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Penguin
+Food: carnivore
+Weighs: 1.5 – 23 kg
+Movement: tobogganing
+Speed: 6 – 9 km/h
+Sound: honk
+Lifespan: 6-20 years
+--------------------------
+Giraffe
+Food: herbivore
+Weighs: 800 kg
+Movement: walking
+Speed: 60 km/h
+Sound: hum
+Lifespan: 25 years
+--------------------------
+Giraffe
+Food: herbivore
+Weighs: 800 kg
+Movement: walking
+Speed: 60 km/h
+Sound: hum
+Lifespan: 25 years
+--------------------------
+**************************Building B**************************
+This building contains 3 animals: 
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Bear
+Food: omnivore
+Weighs: 80 – 600 kg
+Movement: lumbers
+Speed: 40 km/h
+Sound: growls
+Lifespan: 20 years
+--------------------------
+Penguin
+Food: carnivore
+Weighs: 1.5 – 23 kg
+Movement: tobogganing
+Speed: 6 – 9 km/h
+Sound: honk
+Lifespan: 6-20 years
+--------------------------
